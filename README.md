@@ -1,6 +1,3 @@
-# accentify
-
-
 # Accentify
 
 Accentify is an AI-powered language learning application designed to help users improve their pronunciation and fluency in different languages through interactive speech analysis and real-time feedback.
